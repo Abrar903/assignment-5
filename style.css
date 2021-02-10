@@ -1,5 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background-image: url("bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+}
+.thumbImg{
+    width: 100%;
+}
+.meal{
+    display: flex;
 }
